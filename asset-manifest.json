@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Expanse-Tracking-APP/static/css/main.7aa6f324.chunk.css",
+    "main.js": "/Expanse-Tracking-APP/static/js/main.40e76cb6.chunk.js",
+    "main.js.map": "/Expanse-Tracking-APP/static/js/main.40e76cb6.chunk.js.map",
+    "runtime-main.js": "/Expanse-Tracking-APP/static/js/runtime-main.0984b2d5.js",
+    "runtime-main.js.map": "/Expanse-Tracking-APP/static/js/runtime-main.0984b2d5.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/Expanse-Tracking-APP/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3f42258f.chunk.js": "/Expanse-Tracking-APP/static/js/2.3f42258f.chunk.js",
+    "static/js/2.3f42258f.chunk.js.map": "/Expanse-Tracking-APP/static/js/2.3f42258f.chunk.js.map",
+    "static/js/3.1e71ff3e.chunk.js": "/Expanse-Tracking-APP/static/js/3.1e71ff3e.chunk.js",
+    "static/js/3.1e71ff3e.chunk.js.map": "/Expanse-Tracking-APP/static/js/3.1e71ff3e.chunk.js.map",
+    "index.html": "/Expanse-Tracking-APP/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/Expanse-Tracking-APP/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.7aa6f324.chunk.css.map": "/Expanse-Tracking-APP/static/css/main.7aa6f324.chunk.css.map",
+    "static/js/2.3f42258f.chunk.js.LICENSE.txt": "/Expanse-Tracking-APP/static/js/2.3f42258f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0984b2d5.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.3f42258f.chunk.js",
+    "static/css/main.7aa6f324.chunk.css",
+    "static/js/main.40e76cb6.chunk.js"
+  ]
+}
