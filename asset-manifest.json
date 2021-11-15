@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Expanse-Tracking-APP/static/css/main.b5f9eab7.chunk.css",
-    "main.js": "/Expanse-Tracking-APP/static/js/main.ce4953d9.chunk.js",
-    "main.js.map": "/Expanse-Tracking-APP/static/js/main.ce4953d9.chunk.js.map",
+    "main.js": "/Expanse-Tracking-APP/static/js/main.1d766d40.chunk.js",
+    "main.js.map": "/Expanse-Tracking-APP/static/js/main.1d766d40.chunk.js.map",
     "runtime-main.js": "/Expanse-Tracking-APP/static/js/runtime-main.a1627603.js",
     "runtime-main.js.map": "/Expanse-Tracking-APP/static/js/runtime-main.a1627603.js.map",
     "static/css/2.9f0b74ee.chunk.css": "/Expanse-Tracking-APP/static/css/2.9f0b74ee.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.9f0b74ee.chunk.css",
     "static/js/2.0c3b7551.chunk.js",
     "static/css/main.b5f9eab7.chunk.css",
-    "static/js/main.ce4953d9.chunk.js"
+    "static/js/main.1d766d40.chunk.js"
   ]
 }
